@@ -1,0 +1,46 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (if you don't want to track raw data)
+
+# Model files and artifacts
+models/
+*.pkl
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.cache
+*.egg-info/
+dist/
+build/
