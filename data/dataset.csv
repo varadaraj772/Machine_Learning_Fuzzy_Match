@@ -1,0 +1,108 @@
+string_1,string_2,match
+John Smith,Jon Smith,1
+Apple Inc,Apple Incorporated,1
+Google LLC,Googol,0
+Microsoft Corp,Microsoft Corporation,1
+Johnathan Doe,John Doe,1
+Amazon,Amazon.com,1
+Christopher,Chris,1
+International Business Machines,IBM,1
+Facebook,Face Book,1
+Tesco,Tesco PLC,1
+Yahoo,Yahhoo,0
+Meta Platforms,Metta Platforms,0
+John,Johhn,0
+Airbnb,AIRBNB Inc,1
+Reddit,Reditt,0
+Walmart,Walmart International,1
+Berkshire Hathaway,Berkshire Hathaway Inc,1
+Netflix,Nettflix,0
+Coca Cola,Coke,1
+Sony,Sonny,0
+Google,Googlle,0
+Tesla Motors,Tesla,1
+Oracle Corp,Oracle Corporation,1
+Adobe Systems,Adobe,1
+Alibaba,Ali Baba,1
+Samsung,Samsung Electronics,1
+LG Electronics,LG Inc,1
+NVIDIA,NVidia,1
+Honda,Honda Motors,1
+Toyota,Toyoda,0
+Mazda,Mazdah,0
+Sony Corporation,Sony Corp,1
+Uber Technologies,Uber,1
+Lyft,Lyft Inc,1
+PayPal,PayPal Holdings,1
+Stripe,Stripe Inc,1
+Zoom Video Communications,Zoom Inc,1
+Dropbox,Drop Box,0
+Slack Technologies,Slack,1
+Spotify,Spotfy,0
+Salesforce,SalesForce,1
+Snapchat,Snap Inc,1
+TikTok,TickTock,0
+Wikipedia,Wikipaedia,0
+LinkedIn,Linked In,1
+GitHub,Git Hub,1
+GitLab,Git Lab,1
+Bitbucket,Bit Bucket,0
+RedHat,Red Hat,1
+Python,Pyton,0
+JavaScript,Java Script,1
+ReactJS,React JS,1
+Vue.js,Vuejs,1
+AngularJS,Angular JS,1
+Node.js,NodeJS,1
+ExpressJS,Express JS,1
+Ruby on Rails,Ruby Rails,1
+Flask,Flask Framework,1
+Django,Django Framework,1
+MongoDB,Mongo DB,1
+MySQL,My SQL,1
+PostgreSQL,PostgresQL,1
+SQLite,SQL Lite,1
+Oracle Database,OracleDB,1
+MS SQL Server,Microsoft SQL Server,1
+Redis,Redis DB,1
+ElasticSearch,Elastic Search,1
+Kibana,Kibana Analytics,1
+GraphQL,Graph Query Language,1
+Apache Kafka,Apache Kafk,0
+RabbitMQ,Rabbit MQ,1
+Apache Spark,Apache Sprak,0
+Hadoop,Hadoop Framework,1
+BigQuery,Google BigQuery,1
+Snowflake,Snow Flake,0
+Databricks,DataBricks,1
+Azure Data Lake,Azure DataLake,1
+AWS S3,Amazon S3,1
+Google Cloud Storage,GCP Cloud Storage,1
+Microsoft Azure,Azure Cloud,1
+Alibaba Cloud,Ali Cloud,1
+Shopify,Shopify Inc,1
+WooCommerce,Woo Commerce,1
+Magento,Magento Commerce,1
+BigCommerce,Big Commerce,1
+Etsy,Etsy.com,1
+eBay,EBay,1
+Flipkart,Flip Cart,1
+Myntra,Mintra,0
+Zomato,Zomato App,1
+Swiggy,Swiggy Delivery,1
+UberEats,Uber Eats,1
+Ola,Ola Cabs,1
+MakeMyTrip,Make My Trip,1
+Cleartrip,Clear Trip,1
+Yatra,Yatra.com,1
+Goibibo,Go Ibibo,1
+IndiGo Airlines,Indigo,1
+SpiceJet,Spice Jet,1
+Vistara,Vistara Airlines,1
+Air India,Air India Limited,1
+Jet Airways,JetAirways,1
+GoAir,Go Air,1
+Tata Motors,Tata Motors Ltd,1
+Mahindra,Mahindra Ltd,1
+Bajaj,Bajaj Auto,1
+Hero Motocorp,Hero Honda,0
